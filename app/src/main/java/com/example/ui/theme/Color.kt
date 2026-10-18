@@ -1,0 +1,46 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Minimal Apple & Notion Palette with Modern Color Accents
+val LightBackground = Color(0xFFFAFAFA)
+val LightSurface = Color(0xFFFFFFFF)
+val LightSurfaceVariant = Color(0xFFF2F2F7)
+val LightPrimary = Color(0xFF111111)
+val LightOnPrimary = Color(0xFFFFFFFF)
+val LightOnSurface = Color(0xFF111111)
+val LightOnSurfaceVariant = Color(0xFF6E6E73)
+val LightOutline = Color(0xFFE5E5EA)
+val LightOutlineVariant = Color(0xFFEFEFF4)
+
+val DarkBackground = Color(0xFF09090B)
+val DarkSurface = Color(0xFF141416)
+val DarkSurfaceVariant = Color(0xFF202024)
+val DarkPrimary = Color(0xFFF5F5F7)
+val DarkOnPrimary = Color(0xFF111111)
+val DarkOnSurface = Color(0xFFF5F5F7)
+val DarkOnSurfaceVariant = Color(0xFF8E8E93)
+val DarkOutline = Color(0xFF2C2C2E)
+val DarkOutlineVariant = Color(0xFF38383A)
+
+// Functional Accent Colors (Apple-inspired)
+val AccentGreen = Color(0xFF34C759)
+val AccentOrange = Color(0xFFFF9500)
+val AccentRed = Color(0xFFFF3B30)
+val AccentBlue = Color(0xFF007AFF)
+val AccentPurple = Color(0xFF5856D6)
+val AccentYellow = Color(0xFFFFD60A)
+val AccentPink = Color(0xFFFF2D55)
+val AccentTeal = Color(0xFF30B0C7)
+
+// Tinted Pastels for Tags, Badges & Lists (Light / Dark accessible)
+val TagBlueBg = Color(0xFFE7F3FF)
+val TagBlueText = Color(0xFF0066CC)
+val TagPurpleBg = Color(0xFFF3E8FF)
+val TagPurpleText = Color(0xFF7C3AED)
+val TagAmberBg = Color(0xFFFEF3C7)
+val TagAmberText = Color(0xFFD97706)
+val TagGreenBg = Color(0xFFE6F9EE)
+val TagGreenText = Color(0xFF15803D)
+val TagRedBg = Color(0xFFFEE2E2)
+val TagRedText = Color(0xFFDC2626)

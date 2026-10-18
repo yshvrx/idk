@@ -1,0 +1,6 @@
+{
+  "name": "Productivity",
+  "description": "Minimalist Tasks, Calendar & Notes inspired by Apple Reminders, Notion Calendar, and Apple Notes with an interactive pixel smiley.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
